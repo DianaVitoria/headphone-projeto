@@ -17,4 +17,5 @@ Este projeto continuará a evoluir com mudanças adicionais de minha própria au
 🎶 [Confira o Projeto em Produção!](https://headphone-projeto.vercel.app/)
 
 
-![screenshot-BeatBliss](https://github.com/DianaVitoria/headphone-projeto/assets/108808030/9165241b-44ae-439f-9160-516110793cf6)
+
+![screenshot-BeatBliss](https://github.com/DianaVitoria/headphone-projeto/assets/108808030/a3655a91-9143-4896-a889-aecefcc35509)
