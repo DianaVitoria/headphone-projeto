@@ -1,7 +1,5 @@
 # Projeto Beat Bliss - Loja de Headphones 🎧
 
-Adiciona ReadMe ao projeto, juntamente com a descrição do curso, baseado no treinamento da CodeBoost ministrado por Willian Moreira.
-
 Este projeto foi inspirado no projeto **Structboost** da CodeBoost, ministrado por Willian Moreira. O curso abrangeu uma variedade de tópicos, desde os fundamentos de HTML e CSS até técnicas avançadas usando Flexbox e Grid. A experiência de aprendizado foi crucial para a construção da base que fundamenta este projeto.
 
 ## 🚀 Base do Curso
