@@ -30,7 +30,7 @@ header nav ul a:hover {
 }
 .s-hero {
   width: 100%;
-  padding-top: 11.3rem;
+  padding-top: 6.3rem;
 
   position: relative;
   display: flex;
@@ -57,14 +57,12 @@ header nav ul a:hover {
   margin: 0 auto;
   margin-bottom: 6rem;
 }
-
 .s-hero .text h1 {
   position: relative;
   font-weight: 600;
   letter-spacing: -1.68px;
   padding-bottom: 1.2rem;
 }
-
 .s-hero .text h1::before {
   content: "";
   width: 100%;
@@ -82,7 +80,6 @@ header nav ul a:hover {
   margin-bottom: 3.2rem;
   color: var(--gray-300);
 }
-
 .s-hero .text .arrow {
   position: absolute;
   bottom: 1.7rem;
@@ -93,9 +90,8 @@ header nav ul a:hover {
   height: 50rem;
   padding: 0 1.5rem;
 }
-
 .s-digital {
-  padding: 12.8rem;
+  padding: 4.8rem;
 }
 .s-digital h3 {
   text-align: center;
@@ -107,10 +103,10 @@ header nav ul a:hover {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid var(--pink-10);
-  padding-bottom: 9.8rem;
+  padding-bottom: 6.8rem;
 }
 .s-art {
-  padding: 7rem 0;
+  padding: 5rem 0;
 }
 .s-art .title-text {
   display: flex;
@@ -145,7 +141,7 @@ header nav ul a:hover {
   grid-column: span 2;
 }
 .s-news {
-  padding: 3.9rem 0;
+  padding: 5.9rem 0;
   background-color: var(--pink-10);
 }
 .s-news .container {
@@ -166,7 +162,6 @@ header nav ul a:hover {
 footer {
   padding: 4.8rem 0;
 }
-
 footer .main-area {
   display: flex;
   align-items: start;
@@ -212,7 +207,20 @@ footer .main-area .right .item-nav ul li a {
 footer .main-area .right .item-nav ul li a:hover {
   color: white;
 }
-footer .copy{
+footer .item-nav-copy,.copy{
     color: var(--gray-600);
-    letter-spacing: -0.48px;  
+    letter-spacing: -0.48px; 
+
+}
+.item-nav-copy ul {
+    display: flex;
+    gap: 3rem;
+}
+.item-nav-copy img{
+    width: 6rem;
+    margin: 1rem ;
+    transition: .5s;
+}
+.item-nav-copy img:hover{
+    scale: 1.5;
 }
