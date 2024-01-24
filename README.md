@@ -18,4 +18,5 @@ Este projeto continuará a evoluir com mudanças adicionais de minha própria au
 
 
 
-![screenshot-BeatBliss](https://github.com/DianaVitoria/headphone-projeto/assets/108808030/a3655a91-9143-4896-a889-aecefcc35509)
+
+![screenshot-BeatBliss](https://github.com/DianaVitoria/headphone-projeto/assets/108808030/bbd0031e-5a5c-4504-a8af-d755ff2ddf31)
