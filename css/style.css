@@ -10,6 +10,9 @@ header .container {
   align-items: center;
   justify-content: space-between;
 }
+header .btn-mobile{
+  display: none;
+}
 header nav {
   display: flex;
   align-items: center;
@@ -113,16 +116,18 @@ header nav ul a:hover {
   align-items: center;
   justify-content: space-between;
   margin-bottom: 6.4rem;
+
 }
 .s-art .title-text h3 {
   letter-spacing: -1.2px;
   font-weight: 600;
+  text-align: center;
 }
 .s-art .title-text .right {
-  max-width: 42.9rem;
+  max-width: 39%;
 }
 .s-art .title-text .left {
-  max-width: 53.9rem;
+  max-width: 61%;
 }
 .s-art .title-text p {
   color: var(--gray-400);
